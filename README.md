@@ -10,4 +10,4 @@
 
 ## 🛠️ Tecnologias Utilizadas 
 
-- HTML5, CSS3 e JavaScript (Fronet-end)
+- HTML5, CSS3 e JavaScript (Front-end)
