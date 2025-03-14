@@ -59,7 +59,5 @@ Este repositório contém materiais, projetos práticos e anotações sobre dive
 📖 [AWS Training & Certification](https://aws.amazon.com/training/)  
 📖 [FreeCodeCamp AWS Course](https://www.freecodecamp.org/news/aws-certified-cloud-practitioner-study-course/)  
 
----
-
-🛠 **Mantenha o repositório atualizado com novas descobertas e estudos!** 🚀  
+- 
 
