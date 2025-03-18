@@ -1,7 +1,7 @@
 # 🏆 AWS Study Guide  
 
 🚀 **Bem-vindo ao repositório de estudos sobre AWS!**  
-Este repositório contém materiais, projetos práticos e anotações sobre diversos serviços da AWS, desde os fundamentos até tópicos avançados.  
+Este repositório contém materiais, projetos práticos e anotações sobre diversos serviços da AWS, desde os fundamentos até tópicos avançados
 
 ## 📌 Índice  
 - [📖 Conceitos Básicos](#-conceitos-básicos)  
