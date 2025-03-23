@@ -1,19 +1,8 @@
-# 🏆 AWS Study Guide  
-
-🚀 **Bem-vindo ao repositório de estudos sobre AWS!**  
-Este repositório contém materiais, projetos práticos e anotações sobre diversos serviços da AWS, desde os fundamentos até tópicos avançados
-
-## 📌 Índice  
-- [📖 Conceitos Básicos](#-conceitos-básicos)  
-- [☁️ Serviços Essenciais](#-serviços-essenciais)  
-- [🔒 Segurança e IAM](#-segurança-e-iam)  
-- [⚡ Automação e DevOps](#-automação-e-devops)  
-- [🛠️ Projetos Práticos](#-projetos-práticos)  
-- [📚 Recursos de Estudo](#-recursos-de-estudo)  
+#  AWS Study Guide  
 
 ---
 
-## 📖 Conceitos Básicos  
+## Conceitos Básicos  
 ✔ O que é **Cloud Computing** e **AWS**?  
 ✔ Diferença entre **IaaS, PaaS e SaaS**  
 ✔ Regiões, Zonas de Disponibilidade e Edge Locations  
